@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: Katalog pośredni (Debug\) zawiera pliki udostępnione z innego projektu (szablon2vs17.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  main.cpp
+C:\Users\emigo\Desktop\2048\main.cpp(516,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  szablon2vs15.vcxproj -> C:\Users\emigo\Desktop\2048\Debug\szablon2vs15.exe

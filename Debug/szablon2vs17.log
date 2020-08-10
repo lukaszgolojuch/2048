@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\emilka\desktop\2048\main.cpp(550): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\emilka\desktop\2048\main.cpp(545): warning C4101: "eti": lokalna zmienna, do której nie istnieje odwołanie
+  szablon2vs17.vcxproj -> C:\Users\Emilka\Desktop\2048\Debug\szablon2vs17.exe
